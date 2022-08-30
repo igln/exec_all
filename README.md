@@ -1,0 +1,1 @@
+You can use the command using this pattern: <code>./exec_all "command" "container_name" "common word to search"</code>
